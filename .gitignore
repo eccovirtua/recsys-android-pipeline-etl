@@ -3,6 +3,19 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#pycharm
+# Ignorar datos pesados
+**/data-pipeline/data/
+
+# Ignorar archivos de Python compilados
+
+*.pyc
+
+# Ignorar artefactos de DVC
+.dvc/
+*.dvc
+.idea
+
 # C extensions
 *.so
 
