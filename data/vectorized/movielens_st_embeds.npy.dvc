@@ -1,0 +1,5 @@
+outs:
+- md5: 1c1348af891a445b40c76a0a0bfb8ad5
+  size: 154884224
+  hash: md5
+  path: movielens_st_embeds.npy
