@@ -1,0 +1,5 @@
+outs:
+- md5: 5949408d365a7bb48ef64233e3a03924
+  size: 1612372
+  hash: md5
+  path: movielens-clean.parquet
